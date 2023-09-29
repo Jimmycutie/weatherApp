@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+
+    <body>
+        <div class="container external internal" id="content">
+            <form class="row" method='POST'>
+                {% csrf_token %}
+                <input type="text" name="city" placeholder="city">
+                <button type="submit">Compare weather</button>
+            </form>
+
+            <div>
+                <h1>{{ temperature}}</h1>
+            </div>
+        </div>
+    </body>
+
+</html>
