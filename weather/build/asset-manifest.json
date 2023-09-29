@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a8c6b420.css",
-    "main.js": "/static/js/main.ef256c5e.js",
+    "main.js": "/static/js/main.a72067e5.js",
     "static/js/787.b0e1deb2.chunk.js": "/static/js/787.b0e1deb2.chunk.js",
     "static/media/humidity.png": "/static/media/humidity.b645d43b67d540171193.png",
     "index.html": "/index.html",
     "main.a8c6b420.css.map": "/static/css/main.a8c6b420.css.map",
-    "main.ef256c5e.js.map": "/static/js/main.ef256c5e.js.map",
+    "main.a72067e5.js.map": "/static/js/main.a72067e5.js.map",
     "787.b0e1deb2.chunk.js.map": "/static/js/787.b0e1deb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8c6b420.css",
-    "static/js/main.ef256c5e.js"
+    "static/js/main.a72067e5.js"
   ]
 }
